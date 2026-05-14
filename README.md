@@ -15,12 +15,13 @@ I build small, practical products that make information easier to understand, de
 - **AI-assisted research and critique systems** that expose blind spots and summarise evidence.
 - **Commercial landing pages and affiliate guides** with strong positioning and readable structure.
 - **Mobile and browser-extension prototypes** with real product safety, privacy, and launch constraints.
+- **Evidence-led explainers** that answer contentious claims with sources rather than slogans.
 
 My bias is simple: make it useful, make it readable, get it live, then improve it based on what the product actually needs.
 
 ---
 
-## Featured projects
+## Best work
 
 ### Rise Mobility
 
@@ -29,6 +30,14 @@ A dignified mobility-aid buying guide for people who want practical support at h
 **Focus:** affiliate content, accessibility, SEO, trust, independence-first positioning.
 
 [Live site](https://rise-mobility.netlify.app) · [Repository](https://github.com/rcampbell30/Rise)
+
+### ApolloProof
+
+A source-led Moon landing evidence library that answers common Apollo denial claims using primary mission records, lunar samples, landing-site imagery, laser retroreflectors, independent tracking history, and plain-English physics.
+
+**Focus:** evidence-led content, source hierarchy, SEO, accessibility, scientific communication, claim-by-claim explanation.
+
+[Live site](https://apolloproof.netlify.app) · [Repository](https://github.com/rcampbell30/apolloproof)
 
 ### Vigil — The Long Watch
 
@@ -80,19 +89,13 @@ An Expo / React Native friend-discovery app where users create 18+ profiles, bro
 
 ---
 
-## Smaller builds and experiments
+## Smaller builds and infrastructure
 
 ### Wizardset
 
 A beginner-friendly Python utility package built around useful patterns such as `max(items, key=rule)`, ranking, grouping, flattening, safe nested access, duplicate detection, and small local maintenance agents.
 
 [Repository](https://github.com/rcampbell30/Wizardset)
-
-### ApolloProof
-
-A Moon-landing evidence and debunking site that explains common Apollo denial claims with clear reasoning and accessible source-led explanations.
-
-[Live site](https://apolloproof.netlify.app) · [Repository](https://github.com/rcampbell30/apolloproof)
 
 ### SecondBrain
 
@@ -105,6 +108,7 @@ A private Markdown-first context vault designed for local agents, future RAG wor
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Vite, Astro, responsive interfaces.
 - **Product:** positioning, user journeys, information hierarchy, trust-building copy, scope control.
 - **Data interfaces:** dashboards, filters, searchable records, charts, civic/public-interest data presentation.
+- **Content systems:** evidence libraries, buying guides, claim pages, source ladders, SEO-aware structure.
 - **AI workflows:** multi-agent concepts, research critique, local context systems, prompt-driven development.
 - **Launch thinking:** Netlify, Render, GitHub, Expo, EAS, store-readiness, privacy and safety documentation.
 
@@ -119,7 +123,8 @@ Current priority areas:
 1. **Useful affiliate/content products** that help people make better buying decisions.
 2. **Mobile and extension-based safety products** with careful privacy and moderation design.
 3. **Civic, science, and public-interest dashboards** that make complex information more readable.
-4. **AI-assisted tools** that support research, critique, organisation, and decision-making.
+4. **Evidence-led information sites** that turn contentious or complex topics into source-backed explanations.
+5. **AI-assisted tools** that support research, critique, organisation, and decision-making.
 
 I am not interested in building throwaway demos for the sake of it. The aim is to ship products that are clear enough to use, polished enough to trust, and structured enough to grow.
 
